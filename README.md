@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm a college student
+- 🌱 I’m currently learning javascript and on my way learning react
+- 📫 How to reach me: E-mail : jovinagustari17@gmail.com
+
 <!--
 **jovinagustari/jovinagustari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
