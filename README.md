@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm a college student
-- 🌱 I’m currently learning javascript and on my way learning react
+- 🔭 I'm a Informatics Engineerinng student
+- 🌱 I’m currently learning javascript and reactJS
 - 📫 How to reach me: E-mail : jovinagustari17@gmail.com
 
 <!--
